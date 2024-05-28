@@ -46,8 +46,6 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 </tr>
 </table>
 
-
-
 ## Videos
 <a href="https://vimeo.com/166807261" target="_blank"><img src="https://i.vimeocdn.com/video/571534199-095e9569e08e4e2a03b4888a8ac59f5762687b9c108ccfb60390162a19058cc4-d_640" alt="HYPER-REALITY" width="120" height="90"></a>
 <a href="https://vimeo.com/864503702" target="_blank"><img src="https://i.vimeocdn.com/video/1724034701-5fdc372fbee1d8198ca39802e30ac01f5334740bd3f35b0a24f7c4e985d0b37d-d_640" alt="AGENTS" width="120" height="90"></a>
