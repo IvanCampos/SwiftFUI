@@ -2,14 +2,13 @@
 SwiftUI + Fictional User Interface elements for Apple Vision Pro  
 
 ## 
-## 
-##  
 
-
+## Inspiration  
 <table>
 <tr>
-<th style="text-align: left; vertical-align: top;">Sites for FUI Inspiration</th>
+<th style="text-align: left; vertical-align: top;">Sites</th>
 <th style="text-align: left; vertical-align: top;">Studios</th>
+  <th style="text-align: left; vertical-align: top;">Videos</th>
 </tr>
 <tr>
 <td style="vertical-align: top;">
@@ -43,11 +42,11 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 [Territory Studio](https://territorystudio.com/)  
 
 </td>
-</tr>
-</table>
-
-## Videos
+<td style="vertical-align: top;">
 <a href="https://vimeo.com/166807261" target="_blank"><img src="https://i.vimeocdn.com/video/571534199-095e9569e08e4e2a03b4888a8ac59f5762687b9c108ccfb60390162a19058cc4-d_640" alt="HYPER-REALITY" width="120" height="90"></a>
 <a href="https://vimeo.com/864503702" target="_blank"><img src="https://i.vimeocdn.com/video/1724034701-5fdc372fbee1d8198ca39802e30ac01f5334740bd3f35b0a24f7c4e985d0b37d-d_640" alt="AGENTS" width="120" height="90"></a>
 <a href="https://www.youtube.com/watch?v=hs-yH-WnjBQ" target="_blank"><img src="https://img.youtube.com/vi/hs-yH-WnjBQ/0.jpg" alt="FUTURE" width="120" height="90"></a>
 <a href="https://www.youtube.com/watch?v=v99Chyuyf4s" target="_blank"><img src="https://img.youtube.com/vi/v99Chyuyf4s/0.jpg" alt="IRON MAN HUD" width="120" height="90"></a>  
+</td>
+</tr>
+</table>
