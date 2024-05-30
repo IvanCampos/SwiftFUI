@@ -1,9 +1,7 @@
 # SwiftFUI
 SwiftUI + Fictional User Interface elements for Apple Vision Pro  
 
-https://github.com/IvanCampos/SwiftFUI/assets/872137/716d8ae7-b94e-4905-be7a-ed6cac4ca74a
-
-## Inspiration  
+## Research & Inspiration  
 <table>
 <tr>
 <th style="text-align: left; vertical-align: top;">Sites</th>
@@ -51,3 +49,6 @@ https://github.com/IvanCampos/SwiftFUI/assets/872137/716d8ae7-b94e-4905-be7a-ed6
 </td>
 </tr>
 </table>
+
+## SwiftFUI Preview Demo
+https://github.com/IvanCampos/SwiftFUI/assets/872137/716d8ae7-b94e-4905-be7a-ed6cac4ca74a
