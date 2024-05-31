@@ -27,6 +27,8 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 </td>
 <td style="vertical-align: top;">
 
+[Blind LTD](https://www.blindltd.com/)  
+  
 [Cantina Creative](https://cantinacreative.com/film)  
   
 [Method Studios](https://www.methodstudios.com/en/methodmade/)  
