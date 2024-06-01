@@ -11,11 +11,13 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 <tr>
 <td style="vertical-align: top;">
 
+[Ash Thorp](https://www.altcinc.com/)  
 [Behance](https://www.behance.net/search/projects?search=FUI&sort=appreciations)  
 [Dribble](https://dribbble.com/tags/fui)  
 [FUI Reel](https://www.schoolofmotion.com/blog/12-incredible-futuristic-ui-reels)  
 [GMUNK](https://gmunk.com/Everything)  
 [HUDs + GUIs](https://www.hudsandguis.com/)  
+[Keiichi Matsuda](http://km.cx/)  
 [Movies to watch](https://danilab.eu/ui-ux-inspiration-movies-every-designer-should-watch/)  
 [My FUI List on 𝕏](https://x.com/i/lists/1685743116517543938)  
 [Nawazal Amgir](https://nawazalamgir.com/portfolio/)   
@@ -30,7 +32,9 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 [Blind LTD](https://www.blindltd.com/)  
   
 [Cantina Creative](https://cantinacreative.com/film)  
-  
+
+[Figure Studio](https://figurestudio.co/)  
+
 [Method Studios](https://www.methodstudios.com/en/methodmade/)  
   
 [MN8 Studios](https://mn8studio.com/project)  
