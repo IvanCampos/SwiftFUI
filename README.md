@@ -52,6 +52,7 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 <a href="https://www.youtube.com/watch?v=hs-yH-WnjBQ" target="_blank"><img src="https://img.youtube.com/vi/hs-yH-WnjBQ/0.jpg" alt="FUTURE" width="120" height="90"></a>
 <a href="https://www.youtube.com/watch?v=v99Chyuyf4s" target="_blank"><img src="https://img.youtube.com/vi/v99Chyuyf4s/0.jpg" alt="IRON MAN HUD" width="120" height="90"></a>
 <a href="https://www.youtube.com/watch?v=fJDNUcIvxH8" target="_blank"><img src="https://img.youtube.com/vi/fJDNUcIvxH8/0.jpg" alt="Matrix: Reloaded" width="120" height="90"></a>
+<a href="https://www.youtube.com/watch?v=Fhlw88_Beu4" target="_blank"><img src="https://img.youtube.com/vi/Fhlw88_Beu4/0.jpg" alt="The Largest Unsolved Problem in VR" width="120" height="90"></a>
 </td>
 </tr>
 </table>
