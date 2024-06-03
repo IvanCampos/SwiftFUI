@@ -57,5 +57,7 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 </tr>
 </table>
 
-## SwiftFUI Preview Demo
-https://github.com/IvanCampos/SwiftFUI/assets/872137/716d8ae7-b94e-4905-be7a-ed6cac4ca74a
+## SwiftFUI Preview Demos
+https://github.com/IvanCampos/SwiftFUI/assets/872137/716d8ae7-b94e-4905-be7a-ed6cac4ca74a  
+
+https://github.com/IvanCampos/SwiftFUI/assets/872137/3fc72a6e-129e-4579-b5c0-35ecb1961740  
