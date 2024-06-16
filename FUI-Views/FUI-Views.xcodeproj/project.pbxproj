@@ -1,0 +1,580 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 60;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3B023DB82C1E12F7009857FF /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 3B023DB72C1E12F7009857FF /* RealityKitContent */; };
+		3B023DBA2C1E12F7009857FF /* FUI_ViewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DB92C1E12F7009857FF /* FUI_ViewsApp.swift */; };
+		3B023DBE2C1E12F8009857FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B023DBD2C1E12F8009857FF /* Assets.xcassets */; };
+		3B023DC12C1E12F8009857FF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B023DC02C1E12F8009857FF /* Preview Assets.xcassets */; };
+		3B023DCC2C1E12F8009857FF /* FUI_ViewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DCB2C1E12F8009857FF /* FUI_ViewsTests.swift */; };
+		3B023DD82C1E1369009857FF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DD62C1E1368009857FF /* ContentView.swift */; };
+		3B023DD92C1E1369009857FF /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DD72C1E1368009857FF /* ImmersiveView.swift */; };
+		3B023DDD2C1E14B8009857FF /* Orbitron.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DDC2C1E14B8009857FF /* Orbitron.swift */; };
+		3B023DDE2C1E14B8009857FF /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DDB2C1E14B8009857FF /* Colors.swift */; };
+		3B023DE12C1E14D9009857FF /* Orbitron-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B023DE02C1E14D9009857FF /* Orbitron-ExtraBold.ttf */; };
+		3B023DE22C1E14D9009857FF /* Orbitron.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B023DDF2C1E14D9009857FF /* Orbitron.ttf */; };
+		3B023DE92C1E5C19009857FF /* ChevronsVerticalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DE82C1E5C19009857FF /* ChevronsVerticalView.swift */; };
+		3B023DEC2C1E5C67009857FF /* ChevronVertical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DEB2C1E5C64009857FF /* ChevronVertical.swift */; };
+		3B023DEE2C1E5D5A009857FF /* HexagonsExpanseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DED2C1E5D5A009857FF /* HexagonsExpanseView.swift */; };
+		3B023DF02C1E5D87009857FF /* Hexagon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DEF2C1E5D84009857FF /* Hexagon.swift */; };
+		3B023DF22C1E5F5A009857FF /* ChevronsHorizontalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF12C1E5F5A009857FF /* ChevronsHorizontalView.swift */; };
+		3B023DF42C1E5FDE009857FF /* ChevronHorizontal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF32C1E5FD8009857FF /* ChevronHorizontal.swift */; };
+		3B023DF62C1E6182009857FF /* CirclesExpanseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF52C1E6182009857FF /* CirclesExpanseView.swift */; };
+		3B023DF82C1E625C009857FF /* CurrentDayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF72C1E625C009857FF /* CurrentDayView.swift */; };
+		3B023DFA2C1E62FE009857FF /* CirclePulseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF92C1E62FE009857FF /* CirclePulseView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3B023DC82C1E12F8009857FF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3B023DAA2C1E12F7009857FF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3B023DB12C1E12F7009857FF;
+			remoteInfo = "FUI-Views";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3B023DB22C1E12F7009857FF /* FUI-Views.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FUI-Views.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B023DB62C1E12F7009857FF /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
+		3B023DB92C1E12F7009857FF /* FUI_ViewsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FUI_ViewsApp.swift; sourceTree = "<group>"; };
+		3B023DBD2C1E12F8009857FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3B023DC02C1E12F8009857FF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3B023DC22C1E12F8009857FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B023DC72C1E12F8009857FF /* FUI-ViewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FUI-ViewsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B023DCB2C1E12F8009857FF /* FUI_ViewsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FUI_ViewsTests.swift; sourceTree = "<group>"; };
+		3B023DD62C1E1368009857FF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3B023DD72C1E1368009857FF /* ImmersiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImmersiveView.swift; sourceTree = "<group>"; };
+		3B023DDB2C1E14B8009857FF /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		3B023DDC2C1E14B8009857FF /* Orbitron.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orbitron.swift; sourceTree = "<group>"; };
+		3B023DDF2C1E14D9009857FF /* Orbitron.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Orbitron.ttf; sourceTree = "<group>"; };
+		3B023DE02C1E14D9009857FF /* Orbitron-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Orbitron-ExtraBold.ttf"; sourceTree = "<group>"; };
+		3B023DE82C1E5C19009857FF /* ChevronsVerticalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChevronsVerticalView.swift; sourceTree = "<group>"; };
+		3B023DEB2C1E5C64009857FF /* ChevronVertical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChevronVertical.swift; sourceTree = "<group>"; };
+		3B023DED2C1E5D5A009857FF /* HexagonsExpanseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonsExpanseView.swift; sourceTree = "<group>"; };
+		3B023DEF2C1E5D84009857FF /* Hexagon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hexagon.swift; sourceTree = "<group>"; };
+		3B023DF12C1E5F5A009857FF /* ChevronsHorizontalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChevronsHorizontalView.swift; sourceTree = "<group>"; };
+		3B023DF32C1E5FD8009857FF /* ChevronHorizontal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChevronHorizontal.swift; sourceTree = "<group>"; };
+		3B023DF52C1E6182009857FF /* CirclesExpanseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirclesExpanseView.swift; sourceTree = "<group>"; };
+		3B023DF72C1E625C009857FF /* CurrentDayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentDayView.swift; sourceTree = "<group>"; };
+		3B023DF92C1E62FE009857FF /* CirclePulseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirclePulseView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3B023DAF2C1E12F7009857FF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B023DB82C1E12F7009857FF /* RealityKitContent in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B023DC42C1E12F8009857FF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3B023DA92C1E12F7009857FF = {
+			isa = PBXGroup;
+			children = (
+				3B023DB42C1E12F7009857FF /* FUI-Views */,
+				3B023DB52C1E12F7009857FF /* Packages */,
+				3B023DCA2C1E12F8009857FF /* FUI-ViewsTests */,
+				3B023DB32C1E12F7009857FF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3B023DB32C1E12F7009857FF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3B023DB22C1E12F7009857FF /* FUI-Views.app */,
+				3B023DC72C1E12F8009857FF /* FUI-ViewsTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3B023DB42C1E12F7009857FF /* FUI-Views */ = {
+			isa = PBXGroup;
+			children = (
+				3B023DE32C1E14DC009857FF /* Fonts */,
+				3B023DDA2C1E14A0009857FF /* Helpers */,
+				3B023DEA2C1E5C35009857FF /* Shapes */,
+				3B023DD52C1E131E009857FF /* Views */,
+				3B023DB92C1E12F7009857FF /* FUI_ViewsApp.swift */,
+				3B023DD62C1E1368009857FF /* ContentView.swift */,
+				3B023DD72C1E1368009857FF /* ImmersiveView.swift */,
+				3B023DBD2C1E12F8009857FF /* Assets.xcassets */,
+				3B023DC22C1E12F8009857FF /* Info.plist */,
+				3B023DBF2C1E12F8009857FF /* Preview Content */,
+			);
+			path = "FUI-Views";
+			sourceTree = "<group>";
+		};
+		3B023DB52C1E12F7009857FF /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				3B023DB62C1E12F7009857FF /* RealityKitContent */,
+			);
+			path = Packages;
+			sourceTree = "<group>";
+		};
+		3B023DBF2C1E12F8009857FF /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3B023DC02C1E12F8009857FF /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3B023DCA2C1E12F8009857FF /* FUI-ViewsTests */ = {
+			isa = PBXGroup;
+			children = (
+				3B023DCB2C1E12F8009857FF /* FUI_ViewsTests.swift */,
+			);
+			path = "FUI-ViewsTests";
+			sourceTree = "<group>";
+		};
+		3B023DD52C1E131E009857FF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3B023DF72C1E625C009857FF /* CurrentDayView.swift */,
+				3B023DF12C1E5F5A009857FF /* ChevronsHorizontalView.swift */,
+				3B023DE82C1E5C19009857FF /* ChevronsVerticalView.swift */,
+				3B023DF92C1E62FE009857FF /* CirclePulseView.swift */,
+				3B023DF52C1E6182009857FF /* CirclesExpanseView.swift */,
+				3B023DED2C1E5D5A009857FF /* HexagonsExpanseView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3B023DDA2C1E14A0009857FF /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				3B023DDB2C1E14B8009857FF /* Colors.swift */,
+				3B023DDC2C1E14B8009857FF /* Orbitron.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		3B023DE32C1E14DC009857FF /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				3B023DDF2C1E14D9009857FF /* Orbitron.ttf */,
+				3B023DE02C1E14D9009857FF /* Orbitron-ExtraBold.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		3B023DEA2C1E5C35009857FF /* Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				3B023DF32C1E5FD8009857FF /* ChevronHorizontal.swift */,
+				3B023DEB2C1E5C64009857FF /* ChevronVertical.swift */,
+				3B023DEF2C1E5D84009857FF /* Hexagon.swift */,
+			);
+			path = Shapes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3B023DB12C1E12F7009857FF /* FUI-Views */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B023DCF2C1E12F8009857FF /* Build configuration list for PBXNativeTarget "FUI-Views" */;
+			buildPhases = (
+				3B023DAE2C1E12F7009857FF /* Sources */,
+				3B023DAF2C1E12F7009857FF /* Frameworks */,
+				3B023DB02C1E12F7009857FF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "FUI-Views";
+			packageProductDependencies = (
+				3B023DB72C1E12F7009857FF /* RealityKitContent */,
+			);
+			productName = "FUI-Views";
+			productReference = 3B023DB22C1E12F7009857FF /* FUI-Views.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3B023DC62C1E12F8009857FF /* FUI-ViewsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B023DD22C1E12F8009857FF /* Build configuration list for PBXNativeTarget "FUI-ViewsTests" */;
+			buildPhases = (
+				3B023DC32C1E12F8009857FF /* Sources */,
+				3B023DC42C1E12F8009857FF /* Frameworks */,
+				3B023DC52C1E12F8009857FF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3B023DC92C1E12F8009857FF /* PBXTargetDependency */,
+			);
+			name = "FUI-ViewsTests";
+			productName = "FUI-ViewsTests";
+			productReference = 3B023DC72C1E12F8009857FF /* FUI-ViewsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3B023DAA2C1E12F7009857FF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					3B023DB12C1E12F7009857FF = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					3B023DC62C1E12F8009857FF = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 3B023DB12C1E12F7009857FF;
+					};
+				};
+			};
+			buildConfigurationList = 3B023DAD2C1E12F7009857FF /* Build configuration list for PBXProject "FUI-Views" */;
+			compatibilityVersion = "Xcode 15.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3B023DA92C1E12F7009857FF;
+			productRefGroup = 3B023DB32C1E12F7009857FF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3B023DB12C1E12F7009857FF /* FUI-Views */,
+				3B023DC62C1E12F8009857FF /* FUI-ViewsTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3B023DB02C1E12F7009857FF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B023DC12C1E12F8009857FF /* Preview Assets.xcassets in Resources */,
+				3B023DE12C1E14D9009857FF /* Orbitron-ExtraBold.ttf in Resources */,
+				3B023DE22C1E14D9009857FF /* Orbitron.ttf in Resources */,
+				3B023DBE2C1E12F8009857FF /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B023DC52C1E12F8009857FF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3B023DAE2C1E12F7009857FF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B023DF22C1E5F5A009857FF /* ChevronsHorizontalView.swift in Sources */,
+				3B023DD82C1E1369009857FF /* ContentView.swift in Sources */,
+				3B023DDD2C1E14B8009857FF /* Orbitron.swift in Sources */,
+				3B023DF02C1E5D87009857FF /* Hexagon.swift in Sources */,
+				3B023DDE2C1E14B8009857FF /* Colors.swift in Sources */,
+				3B023DFA2C1E62FE009857FF /* CirclePulseView.swift in Sources */,
+				3B023DF42C1E5FDE009857FF /* ChevronHorizontal.swift in Sources */,
+				3B023DEE2C1E5D5A009857FF /* HexagonsExpanseView.swift in Sources */,
+				3B023DD92C1E1369009857FF /* ImmersiveView.swift in Sources */,
+				3B023DF82C1E625C009857FF /* CurrentDayView.swift in Sources */,
+				3B023DEC2C1E5C67009857FF /* ChevronVertical.swift in Sources */,
+				3B023DBA2C1E12F7009857FF /* FUI_ViewsApp.swift in Sources */,
+				3B023DE92C1E5C19009857FF /* ChevronsVerticalView.swift in Sources */,
+				3B023DF62C1E6182009857FF /* CirclesExpanseView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B023DC32C1E12F8009857FF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B023DCC2C1E12F8009857FF /* FUI_ViewsTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3B023DC92C1E12F8009857FF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3B023DB12C1E12F7009857FF /* FUI-Views */;
+			targetProxy = 3B023DC82C1E12F8009857FF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3B023DCD2C1E12F8009857FF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = xros;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				XROS_DEPLOYMENT_TARGET = 2.0;
+			};
+			name = Debug;
+		};
+		3B023DCE2C1E12F8009857FF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = xros;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+				XROS_DEPLOYMENT_TARGET = 2.0;
+			};
+			name = Release;
+		};
+		3B023DD02C1E12F8009857FF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FUI-Views/Preview Content\"";
+				DEVELOPMENT_TEAM = 2DJDH872JZ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "$(TARGET_NAME)/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ivancampos.FUI-Views";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 7;
+			};
+			name = Debug;
+		};
+		3B023DD12C1E12F8009857FF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FUI-Views/Preview Content\"";
+				DEVELOPMENT_TEAM = 2DJDH872JZ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "$(TARGET_NAME)/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ivancampos.FUI-Views";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 7;
+			};
+			name = Release;
+		};
+		3B023DD32C1E12F8009857FF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2DJDH872JZ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ivancampos.FUI-ViewsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 7;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FUI-Views.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FUI-Views";
+				XROS_DEPLOYMENT_TARGET = 2.0;
+			};
+			name = Debug;
+		};
+		3B023DD42C1E12F8009857FF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2DJDH872JZ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ivancampos.FUI-ViewsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 7;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FUI-Views.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FUI-Views";
+				XROS_DEPLOYMENT_TARGET = 2.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3B023DAD2C1E12F7009857FF /* Build configuration list for PBXProject "FUI-Views" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B023DCD2C1E12F8009857FF /* Debug */,
+				3B023DCE2C1E12F8009857FF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B023DCF2C1E12F8009857FF /* Build configuration list for PBXNativeTarget "FUI-Views" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B023DD02C1E12F8009857FF /* Debug */,
+				3B023DD12C1E12F8009857FF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B023DD22C1E12F8009857FF /* Build configuration list for PBXNativeTarget "FUI-ViewsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B023DD32C1E12F8009857FF /* Debug */,
+				3B023DD42C1E12F8009857FF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3B023DB72C1E12F7009857FF /* RealityKitContent */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = RealityKitContent;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 3B023DAA2C1E12F7009857FF /* Project object */;
+}
