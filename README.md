@@ -47,13 +47,13 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 
 </td>
 <td style="vertical-align: top;">
-<a href="https://vimeo.com/166807261" target="_blank"><img src="https://i.vimeocdn.com/video/571534199-095e9569e08e4e2a03b4888a8ac59f5762687b9c108ccfb60390162a19058cc4-d_640" alt="HYPER-REALITY" width="180" height="135"></a>
-<a href="https://vimeo.com/864503702" target="_blank"><img src="https://i.vimeocdn.com/video/1724034701-5fdc372fbee1d8198ca39802e30ac01f5334740bd3f35b0a24f7c4e985d0b37d-d_640" alt="AGENTS" width="180" height="135"></a>
-<a href="https://www.youtube.com/watch?v=hs-yH-WnjBQ" target="_blank"><img src="https://img.youtube.com/vi/hs-yH-WnjBQ/0.jpg" alt="FUTURE" width="180" height="135"></a>
-<a href="https://www.youtube.com/watch?v=v99Chyuyf4s" target="_blank"><img src="https://img.youtube.com/vi/v99Chyuyf4s/0.jpg" alt="IRON MAN HUD" width="180" height="135"></a>
-<a href="https://www.youtube.com/watch?v=fJDNUcIvxH8" target="_blank"><img src="https://img.youtube.com/vi/fJDNUcIvxH8/0.jpg" alt="Matrix: Reloaded" width="180" height="135"></a>
-<a href="https://www.youtube.com/watch?v=Fhlw88_Beu4" target="_blank"><img src="https://img.youtube.com/vi/Fhlw88_Beu4/0.jpg" alt="The Largest Unsolved Problem in VR" width="180" height="135"></a>
-<a href="https://www.youtube.com/watch?v=UzRjtvMQds4" target="_blank"><img src="https://img.youtube.com/vi/UzRjtvMQds4/0.jpg" alt="The only worthwhile part of Johnny Mnemonic" width="180" height="135"></a>
+<a href="https://vimeo.com/166807261" target="_blank"><img src="https://i.vimeocdn.com/video/571534199-095e9569e08e4e2a03b4888a8ac59f5762687b9c108ccfb60390162a19058cc4-d_640" alt="HYPER-REALITY" width="49%"></a>
+<a href="https://vimeo.com/864503702" target="_blank"><img src="https://i.vimeocdn.com/video/1724034701-5fdc372fbee1d8198ca39802e30ac01f5334740bd3f35b0a24f7c4e985d0b37d-d_640" alt="AGENTS" width="49%"></a>
+<a href="https://www.youtube.com/watch?v=hs-yH-WnjBQ" target="_blank"><img src="https://img.youtube.com/vi/hs-yH-WnjBQ/0.jpg" alt="FUTURE" width="49%"></a>
+<a href="https://www.youtube.com/watch?v=v99Chyuyf4s" target="_blank"><img src="https://img.youtube.com/vi/v99Chyuyf4s/0.jpg" alt="IRON MAN HUD" width="49%"></a>
+<a href="https://www.youtube.com/watch?v=fJDNUcIvxH8" target="_blank"><img src="https://img.youtube.com/vi/fJDNUcIvxH8/0.jpg" alt="Matrix: Reloaded" width="49%"></a>
+<a href="https://www.youtube.com/watch?v=Fhlw88_Beu4" target="_blank"><img src="https://img.youtube.com/vi/Fhlw88_Beu4/0.jpg" alt="The Largest Unsolved Problem in VR" width="49%"></a>
+<a href="https://www.youtube.com/watch?v=UzRjtvMQds4" target="_blank"><img src="https://img.youtube.com/vi/UzRjtvMQds4/0.jpg" alt="The only worthwhile part of Johnny Mnemonic" width="49%"></a>
 </td>
 </tr>
 </table>
