@@ -15,7 +15,7 @@ struct CurrentDayView: View {
             ForEach(daysOfWeek, id: \.self) { day in
                 Text(futureScape(day))
                     .font(.custom("Orbitron-Regular", size: 24))
-                    .foregroundColor(day == currentDay ? .cyan : .gray)
+                    .foregroundColor(day == currentDay ? .cyan : .black)
             }
         }
         .background(Color.clear)
