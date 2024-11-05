@@ -21,6 +21,7 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 [Movies to watch](https://danilab.eu/ui-ux-inspiration-movies-every-designer-should-watch/)  
 [My FUI List on 𝕏](https://x.com/i/lists/1685743116517543938)  
 [Nawazal Amgir](https://nawazalamgir.com/portfolio/)   
+[My XR Pinterest](https://www.pinterest.com/sopmacnavi/xr/)  
 [Pushing Pixels](https://www.pushing-pixels.org/fui/)   
 [Robyn Haddow](https://www.robynhaddow.com/)  
 [SciFiInterfaces.com](https://scifiinterfaces.com/)  
