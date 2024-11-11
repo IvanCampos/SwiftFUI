@@ -25,6 +25,7 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 [Pushing Pixels](https://www.pushing-pixels.org/fui/)   
 [Robyn Haddow](https://www.robynhaddow.com/)  
 [SciFiInterfaces.com](https://scifiinterfaces.com/)  
+[Sci-Fi UI | Are.na](https://www.are.na/figs-lab/sci-fi-ui)  
 [Tumblr](https://sciencefictioninterfaces.tumblr.com/)  
 
 </td>
