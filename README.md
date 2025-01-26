@@ -13,10 +13,13 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 
 [Ash Thorp](https://www.altcinc.com/)  
 [Behance](https://www.behance.net/search/projects?search=FUI&sort=appreciations)  
+[Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)  
 [Dribble](https://dribbble.com/tags/fui)  
 [FUI Reel](https://www.schoolofmotion.com/blog/12-incredible-futuristic-ui-reels)  
 [GMUNK](https://gmunk.com/Everything)  
+[Hiroshi Ishii](https://www.dezeen.com/2014/05/09/movie-hiroshi-ishii-transform-shape-shifting-table-top-mit-media-lab/)  
 [HUDs + GUIs](https://www.hudsandguis.com/)  
+[John Underkoffler](https://lemelson.mit.edu/resources/john-underkoffler)  
 [Keiichi Matsuda](http://km.cx/)  
 [Movies to watch](https://danilab.eu/ui-ux-inspiration-movies-every-designer-should-watch/)  
 [My FUI List on 𝕏](https://x.com/i/lists/1685743116517543938)  
