@@ -11,15 +11,14 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 <tr>
 <td style="vertical-align: top;">
 
+[Alberto Mielgo](https://www.albertomielgo.com/)  
 [Ash Thorp](https://www.altcinc.com/)  
 [Behance](https://www.behance.net/search/projects?search=FUI&sort=appreciations)  
-[Doug Bowman](https://wordpress.cs.vt.edu/3digroup/author/dbowman/)  
-[Dribble](https://dribbble.com/tags/fui)  
+[Dribble | FUI](https://dribbble.com/tags/fui)  
 [FUI Reel](https://www.schoolofmotion.com/blog/12-incredible-futuristic-ui-reels)  
 [GMUNK](https://gmunk.com/Everything)  
-[Hiroshi Ishii](https://www.dezeen.com/2014/05/09/movie-hiroshi-ishii-transform-shape-shifting-table-top-mit-media-lab/)  
 [HUDs + GUIs](https://www.hudsandguis.com/)  
-[John Underkoffler](https://lemelson.mit.edu/resources/john-underkoffler)  
+[Jospeh Cross](https://www.artstation.com/josephacross)  
 [Keiichi Matsuda](http://km.cx/)  
 [Movies to watch](https://danilab.eu/ui-ux-inspiration-movies-every-designer-should-watch/)  
 [My FUI List on 𝕏](https://x.com/i/lists/1685743116517543938)  
@@ -27,9 +26,10 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 [My XR Pinterest](https://www.pinterest.com/sopmacnavi/xr/)  
 [Pushing Pixels](https://www.pushing-pixels.org/fui/)   
 [Robyn Haddow](https://www.robynhaddow.com/)  
+[Science Fiction Interfaces](https://sciencefictioninterfaces.tumblr.com/)  
 [SciFiInterfaces.com](https://scifiinterfaces.com/)  
 [Sci-Fi UI | Are.na](https://www.are.na/figs-lab/sci-fi-ui)  
-[Tumblr](https://sciencefictioninterfaces.tumblr.com/)  
+
 
 </td>
 <td style="vertical-align: top;">
