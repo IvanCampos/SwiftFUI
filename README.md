@@ -73,3 +73,59 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 https://github.com/IvanCampos/SwiftFUI/assets/872137/716d8ae7-b94e-4905-be7a-ed6cac4ca74a  
 
 https://github.com/IvanCampos/SwiftFUI/assets/872137/3fc72a6e-129e-4579-b5c0-35ecb1961740  
+
+
+The repository is organized around a small SwiftUI project that explores “Fictional User Interface” (FUI) concepts for Apple Vision Pro.
+
+### Overall Layout  
+SwiftFUI/  
+├── FUI-Views/         # Main Vision Pro app source  
+├── Vision-Icons/      # PNG avatar/helmet icons  
+├── LICENSE  
+├── README.md  
+
+### Key Components
+README – Introduces the project (“SwiftUI + Fictional User Interface elements for Apple Vision Pro”) and lists many design resources, followed by demo links
+
+FUI_ViewsApp.swift – Entry point for the app. It displays ContentView and registers an immersive space scene
+
+ContentView.swift – Main interface showing the custom views and a toggle that opens or dismisses the immersive space. It calls futureScape to stylize text and uses the helper views for animations
+
+ImmersiveView.swift – Defines a RealityKit RealityView with text and attachments that render ChevronsHorizontalView and CirclePulseView inside 3D space
+
+### Helpers
+
+Colors.swift – Many color definitions (hex strings) and a helper to convert hex to UIColor
+
+Orbitron.swift – Font constants and futureScape function that applies stylized character replacements
+
+Shapes – Custom Shape implementations like ChevronHorizontal
+
+Views – SwiftUI views that animate the shapes; e.g. ChevronsHorizontalView animates chevrons when tapped
+
+Packages/RealityKitContent – Local Swift package with assets for RealityKit scenes (e.g., .rkassets files). The package uses Swift tools version 6.0.
+
+Vision-Icons – Collection of icon images that could be used in the UI.
+
+### Important Pointers  
+
+#### Running the project
+Open FUI-Views.xcodeproj in Xcode (VisionOS SDK). The app requires a Vision Pro simulator or device to see the immersive scenes.
+
+#### Understanding the Immersive Space
+ContentView toggles an ImmersiveSpace which is defined in FUI_ViewsApp.swift and implemented in ImmersiveView.swift. Explore RealityKit’s RealityView and attachments to integrate 3D content.
+
+#### Custom Shapes and Animations
+The shapes (ChevronHorizontal, ChevronVertical, Hexagon) are used in the Views folder to create interactive UI elements. Studying these SwiftUI animations gives insight into building FUI components.
+
+#### Helpers
+Colors and Orbitron show how to manage color palettes and fonts, and the futureScape function is a small example of text transformation.
+
+#### Future Work
+Tests exist only as a stub in FUI-ViewsTests.swift. Adding real tests and exploring additional RealityKit features would be good next steps.
+
+#### Design Inspiration
+The README’s links and preview demos provide resources to learn more about FUI aesthetics and can guide new ideas.  
+
+
+This repository offers a starting point for experimenting with Vision Pro interfaces. Review the SwiftUI code in FUI-Views, examine the local package for RealityKit assets, and explore Apple’s documentation on VisionOS to expand the project further.
