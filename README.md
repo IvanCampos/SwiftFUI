@@ -19,7 +19,7 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 [FUI Reel](https://www.schoolofmotion.com/blog/12-incredible-futuristic-ui-reels)  
 [GMUNK](https://gmunk.com/Everything)  
 [HUDs + GUIs](https://www.hudsandguis.com/)  
-[Jospeh Cross](https://www.artstation.com/josephacross)  
+[Joseph Cross](https://www.artstation.com/josephacross)  
 [Keiichi Matsuda](http://km.cx/)  
 [Movies to watch](https://danilab.eu/ui-ux-inspiration-movies-every-designer-should-watch/)  
 [My FUI List on 𝕏](https://x.com/i/lists/1685743116517543938)  
