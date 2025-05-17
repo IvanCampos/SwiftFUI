@@ -57,7 +57,7 @@ public enum ColorName: String {
 }
 
 public func getColor(hex: String) -> Color {
-    return Color(UIColor(hex: "hex"))
+    return Color(UIColor(hex: hex))
 }
 
 // Function to create UIColor from hex string
