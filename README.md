@@ -15,7 +15,7 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 [Antireal Archive](https://antireal.info/archive)  
 [Ash Thorp](https://www.altcinc.com/)  
 [Behance](https://www.behance.net/search/projects?search=FUI&sort=appreciations)  
-[Dribble | FUI](https://dribbble.com/tags/fui)  
+[Dribbble | FUI](https://dribbble.com/tags/fui)  
 [FUI Reel](https://www.schoolofmotion.com/blog/12-incredible-futuristic-ui-reels)  
 [GMUNK](https://gmunk.com/Everything)  
 [HUDs + GUIs](https://www.hudsandguis.com/)  
