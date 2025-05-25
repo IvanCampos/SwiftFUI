@@ -28,8 +28,8 @@ struct CirclePulseView: View {
     }
 }
 
-//struct CirclePulseView_Preview: PreviewProvider {
-//    static var previews: some View {
-//        CirclePulseView()
-//    }
-//}
+struct CirclePulseView_Preview: PreviewProvider {
+    static var previews: some View {
+        CirclePulseView()
+    }
+}
