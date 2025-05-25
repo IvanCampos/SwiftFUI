@@ -26,7 +26,11 @@
 		3B023DF42C1E5FDE009857FF /* ChevronHorizontal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF32C1E5FD8009857FF /* ChevronHorizontal.swift */; };
 		3B023DF62C1E6182009857FF /* CirclesExpanseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF52C1E6182009857FF /* CirclesExpanseView.swift */; };
 		3B023DF82C1E625C009857FF /* CurrentDayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF72C1E625C009857FF /* CurrentDayView.swift */; };
-		3B023DFA2C1E62FE009857FF /* CirclePulseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF92C1E62FE009857FF /* CirclePulseView.swift */; };
+3B023DFA2C1E62FE009857FF /* CirclePulseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DF92C1E62FE009857FF /* CirclePulseView.swift */; };
+54847C48D3019F1F7496B70F /* TriangularPulseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5357AED438A0B419F3EEB6 /* TriangularPulseView.swift */; };
+C8F63C48EFE95DADF62A12A1 /* GlowingBoxOutline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA9BB7A6D091900CC1B9B86 /* GlowingBoxOutline.swift */; };
+E323C28EF8B588CD30FAE9CD /* WarningBanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42713F59006178C0F78E03E /* WarningBanner.swift */; };
+067B27E50F8A77E09B13E2F1 /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353BCD36C54C5B4FADAFD83B /* Triangle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,7 +66,11 @@
 		3B023DF32C1E5FD8009857FF /* ChevronHorizontal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChevronHorizontal.swift; sourceTree = "<group>"; };
 		3B023DF52C1E6182009857FF /* CirclesExpanseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirclesExpanseView.swift; sourceTree = "<group>"; };
 		3B023DF72C1E625C009857FF /* CurrentDayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentDayView.swift; sourceTree = "<group>"; };
-		3B023DF92C1E62FE009857FF /* CirclePulseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirclePulseView.swift; sourceTree = "<group>"; };
+3B023DF92C1E62FE009857FF /* CirclePulseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirclePulseView.swift; sourceTree = "<group>"; };
+AA5357AED438A0B419F3EEB6 /* TriangularPulseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangularPulseView.swift; sourceTree = "<group>"; };
+3FA9BB7A6D091900CC1B9B86 /* GlowingBoxOutline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlowingBoxOutline.swift; sourceTree = "<group>"; };
+E42713F59006178C0F78E03E /* WarningBanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WarningBanner.swift; sourceTree = "<group>"; };
+353BCD36C54C5B4FADAFD83B /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,9 +159,12 @@
 				3B023DF12C1E5F5A009857FF /* ChevronsHorizontalView.swift */,
 				3B023DE82C1E5C19009857FF /* ChevronsVerticalView.swift */,
 				3B023DF92C1E62FE009857FF /* CirclePulseView.swift */,
-				3B023DF52C1E6182009857FF /* CirclesExpanseView.swift */,
-				3B023DED2C1E5D5A009857FF /* HexagonsExpanseView.swift */,
-			);
+3B023DF52C1E6182009857FF /* CirclesExpanseView.swift */,
+3B023DED2C1E5D5A009857FF /* HexagonsExpanseView.swift */,
+AA5357AED438A0B419F3EEB6 /* TriangularPulseView.swift */,
+3FA9BB7A6D091900CC1B9B86 /* GlowingBoxOutline.swift */,
+E42713F59006178C0F78E03E /* WarningBanner.swift */,
+);
 			path = Views;
 			sourceTree = "<group>";
 		};
@@ -179,9 +190,10 @@
 			isa = PBXGroup;
 			children = (
 				3B023DF32C1E5FD8009857FF /* ChevronHorizontal.swift */,
-				3B023DEB2C1E5C64009857FF /* ChevronVertical.swift */,
-				3B023DEF2C1E5D84009857FF /* Hexagon.swift */,
-			);
+3B023DEB2C1E5C64009857FF /* ChevronVertical.swift */,
+3B023DEF2C1E5D84009857FF /* Hexagon.swift */,
+353BCD36C54C5B4FADAFD83B /* Triangle.swift */,
+);
 			path = Shapes;
 			sourceTree = "<group>";
 		};
@@ -303,8 +315,12 @@
 				3B023DEC2C1E5C67009857FF /* ChevronVertical.swift in Sources */,
 				3B023DBA2C1E12F7009857FF /* FUI_ViewsApp.swift in Sources */,
 				3B023DE92C1E5C19009857FF /* ChevronsVerticalView.swift in Sources */,
-				3B023DF62C1E6182009857FF /* CirclesExpanseView.swift in Sources */,
-			);
+3B023DF62C1E6182009857FF /* CirclesExpanseView.swift in Sources */,
+54847C48D3019F1F7496B70F /* TriangularPulseView.swift in Sources */,
+C8F63C48EFE95DADF62A12A1 /* GlowingBoxOutline.swift in Sources */,
+E323C28EF8B588CD30FAE9CD /* WarningBanner.swift in Sources */,
+067B27E50F8A77E09B13E2F1 /* Triangle.swift in Sources */,
+);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		3B023DC32C1E12F8009857FF /* Sources */ = {
