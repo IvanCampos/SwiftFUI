@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3B023DB82C1E12F7009857FF /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 3B023DB72C1E12F7009857FF /* RealityKitContent */; };
 		3B023DBA2C1E12F7009857FF /* FUI_ViewsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B023DB92C1E12F7009857FF /* FUI_ViewsApp.swift */; };
 		3B023DBE2C1E12F8009857FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B023DBD2C1E12F8009857FF /* Assets.xcassets */; };
 		3B023DC12C1E12F8009857FF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B023DC02C1E12F8009857FF /* Preview Assets.xcassets */; };
@@ -45,7 +44,6 @@ E323C28EF8B588CD30FAE9CD /* WarningBanner.swift in Sources */ = {isa = PBXBuildF
 
 /* Begin PBXFileReference section */
 		3B023DB22C1E12F7009857FF /* FUI-Views.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FUI-Views.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3B023DB62C1E12F7009857FF /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		3B023DB92C1E12F7009857FF /* FUI_ViewsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FUI_ViewsApp.swift; sourceTree = "<group>"; };
 		3B023DBD2C1E12F8009857FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B023DC02C1E12F8009857FF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -78,7 +76,6 @@ E42713F59006178C0F78E03E /* WarningBanner.swift */ = {isa = PBXFileReference; la
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B023DB82C1E12F7009857FF /* RealityKitContent in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -96,7 +93,6 @@ E42713F59006178C0F78E03E /* WarningBanner.swift */ = {isa = PBXFileReference; la
 			isa = PBXGroup;
 			children = (
 				3B023DB42C1E12F7009857FF /* FUI-Views */,
-				3B023DB52C1E12F7009857FF /* Packages */,
 				3B023DCA2C1E12F8009857FF /* FUI-ViewsTests */,
 				3B023DB32C1E12F7009857FF /* Products */,
 			);
@@ -126,14 +122,6 @@ E42713F59006178C0F78E03E /* WarningBanner.swift */ = {isa = PBXFileReference; la
 				3B023DBF2C1E12F8009857FF /* Preview Content */,
 			);
 			path = "FUI-Views";
-			sourceTree = "<group>";
-		};
-		3B023DB52C1E12F7009857FF /* Packages */ = {
-			isa = PBXGroup;
-			children = (
-				3B023DB62C1E12F7009857FF /* RealityKitContent */,
-			);
-			path = Packages;
 			sourceTree = "<group>";
 		};
 		3B023DBF2C1E12F8009857FF /* Preview Content */ = {
@@ -213,9 +201,8 @@ E42713F59006178C0F78E03E /* WarningBanner.swift */,
 			dependencies = (
 			);
 			name = "FUI-Views";
-			packageProductDependencies = (
-				3B023DB72C1E12F7009857FF /* RealityKitContent */,
-			);
+                       packageProductDependencies = (
+                        );
 			productName = "FUI-Views";
 			productReference = 3B023DB22C1E12F7009857FF /* FUI-Views.app */;
 			productType = "com.apple.product-type.application";
@@ -586,10 +573,6 @@ E323C28EF8B588CD30FAE9CD /* WarningBanner.swift in Sources */,
 /* End XCConfigurationList section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		3B023DB72C1E12F7009857FF /* RealityKitContent */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = RealityKitContent;
-		};
 /* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 3B023DAA2C1E12F7009857FF /* Project object */;
