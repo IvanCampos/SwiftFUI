@@ -67,7 +67,7 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 <a href="https://www.youtube.com/watch?v=Tgke4ttqgF8" target="_blank"><img src="https://img.youtube.com/vi/Tgke4ttqgF8/0.jpg" alt="Nomad's Revenge" width="49%"></a>
 <a href="https://vimeo.com/1563485" target="_blank"><img src="https://i.vimeocdn.com/video/21013054-7fabec3c6bace1a824254a78b33d1550c96699a0fdaa9784634f7529c3bc17e3-d_640" alt="RIP Mark Colran" width="49%"></a>  
 <a href="https://vimeo.com/861340402" target="_blank"><img src="https://i.vimeocdn.com/video/1719827577-691a76a99b53dc11fec2318986321a6b8b76e267585cdbb7aafcc2c772b13fcf-d" alt="Perception's Film and Technology Design Reel" width="49%"></a>
-<a href="https://www.youtube.com/watch?v=Z_b3whmgyYw" target="_blank"><img src="https://img.youtube.com/vi/Z_b3whmgyYw/0.jpg" alt="EVIDENT MIRROR" width="49%"></a> 
+<a href="https://www.youtube.com/watch?v=dZF6ozql5gg" target="_blank"><img src="https://img.youtube.com/vi/dZF6ozql5gg/0.jpg" alt="EVIDENT MIRROR" width="49%"></a> 
 </td>
 </tr>
 </table>
