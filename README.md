@@ -30,6 +30,7 @@ SwiftUI + Fictional User Interface elements for Apple Vision Pro
 [Robyn Haddow](https://www.robynhaddow.com/)  
 [SciFiInterfaces.com](https://scifiinterfaces.com/)  
 [Sci-Fi UI | Are.na](https://www.are.na/figs-lab/sci-fi-ui)  
+[The Art of Marathon](https://www.artstation.com/channels/tag/TheArtofMarathon)  
 [Tumblr | Science Fiction Interfaces](https://sciencefictioninterfaces.tumblr.com/)  
 
 </td>
